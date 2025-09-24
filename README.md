@@ -127,18 +127,4 @@ Samling av praktiske nettverkstekniske prosjekter gjennomført i emnet Datakommu
 - **Quality of Service** fra optimaliserings-laber
 - **IPv4/IPv6 dual-stack** for global tilkobling
 
----
-
-## **Relevans for Videokonferanse**
-
-Denne praktiske nettverkserfaringen gir **avgjørende forståelse** for skalerbare videokonferanseplattformer:
-
-- **Latens-optimalisering** - Essensielt for sanntids video/audio
-- **Load balancing** - Håndtering av tusenvis av samtidige video-strømmer  
-- **Failover & redundans** - Enterprise videokonferanse-pålitelighet
-- **Protokoll-optimalisering** - WebRTC og tilpassede video-protokoller
-- **Enterprise security** - Sikre bedriftskommunikasjoner
-- **Ytelses-analyse** - Videokvalitet under varierende nettverksforhold
-
-
 
