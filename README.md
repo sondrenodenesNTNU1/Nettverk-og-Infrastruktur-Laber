@@ -1,6 +1,31 @@
 # Nettverk-og-Infrastruktur-Laber
 Samling av praktiske nettverkstekniske prosjekter gjennomført i emnet Datakommunikasjon og nettverk (DCST1006) og Sammenkoblede nettverk og nettverkssikkerhet (DCST2001). Labene ga praktisk erfaring av nettverksprotokoller, distribuert systemkommunikasjon og bedriftsnettverksarkitektur.
 
+## **Tekniske Ressurser**
+
+### **Gjennomførte Laber (DCST1006)**
+- **Lab 7**: IP Subnetting og VLSM *(Obligatorisk)*
+- **Lab 9**: IPv6/ICMPv6 og Wireshark TCP/HTTP analyse *(Obligatorisk)*
+- **Lab 12**: VLAN Router-on-a-Stick *(Obligatorisk)*
+- **Lab 14**: DHCPv4/DHCPv6 implementering *(Obligatorisk)*
+- **Lab 15**: HSRP konfigurasjon
+- **Lab 17**: Switch-sikkerhet konfigurasjon
+- *...og flere grunnleggende networking labs*
+
+### **Avanserte Laber (DCST2001)**
+- **Lab 35**: OSPF (Open Shortest Path First) - **OBLIGATORISK**
+- **Lab 37**: Access Control Lists (ACL) - **OBLIGATORISK**
+- **Lab 36**: Advanced Network Security
+- **Lab 34**: Static Routing & Path Control
+
+### **Tekniske Platformer**
+- **Cisco Packet Tracer** - Nettverks-simulering og konfigurasjon
+- **Cisco IOS** - Enterprise ruter/switch kommandolinje
+- **Wireshark** - Pakke-analyse og protokoll-debugging
+- **IPv6 Implementation** - SLAAC, DHCPv6, ICMPv6
+- **Enterprise Security** - ACLs, network hardening, access control
+
+
 ## **Implementering av Nettverksprotokoller**
 
 ### VLAN & Inter-VLAN Routing 
@@ -115,33 +140,5 @@ Denne praktiske nettverkserfaringen gir **avgjørende forståelse** for skalerba
 - **Enterprise security** - Sikre bedriftskommunikasjoner
 - **Ytelses-analyse** - Videokvalitet under varierende nettverksforhold
 
----
 
-## **Tekniske Ressurser**
-
-### **Gjennomførte Laber (DCST1006)**
-- **Lab 7**: IP Subnetting og VLSM *(Obligatorisk)*
-- **Lab 9**: IPv6/ICMPv6 og Wireshark TCP/HTTP analyse *(Obligatorisk)*
-- **Lab 12**: VLAN Router-on-a-Stick *(Obligatorisk)*
-- **Lab 14**: DHCPv4/DHCPv6 implementering *(Obligatorisk)*
-- **Lab 15**: HSRP konfigurasjon
-- **Lab 17**: Switch-sikkerhet konfigurasjon
-- *...og flere grunnleggende networking labs*
-
-### **Avanserte Laber (DCST2001)**
-- **Lab 35**: OSPF (Open Shortest Path First) - **OBLIGATORISK**
-- **Lab 37**: Access Control Lists (ACL) - **OBLIGATORISK**
-- **Lab 36**: Advanced Network Security
-- **Lab 34**: Static Routing & Path Control
-
-### **Tekniske Platformer**
-- **Cisco Packet Tracer** - Nettverks-simulering og konfigurasjon
-- **Cisco IOS** - Enterprise ruter/switch kommandolinje
-- **Wireshark** - Pakke-analyse og protokoll-debugging
-- **IPv6 Implementation** - SLAAC, DHCPv6, ICMPv6
-- **Enterprise Security** - ACLs, network hardening, access control
-
----
-
-**Denne omfattende nettverkserfaringen, kombinert med programmeringsferdigheter, gir et robust grunnlag for å bygge skalerbar og sikker videokonferanse-infrastruktur.**
 
