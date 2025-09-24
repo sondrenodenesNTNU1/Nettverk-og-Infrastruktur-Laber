@@ -4,17 +4,17 @@ Samling av praktiske nettverkstekniske prosjekter gjennomført i emnet Datakommu
 ## **Tekniske Ressurser**
 
 ### **Gjennomførte Laber (DCST1006)**
-- **Lab 7**: IP Subnetting og VLSM *(Obligatorisk)*
-- **Lab 9**: IPv6/ICMPv6 og Wireshark TCP/HTTP analyse *(Obligatorisk)*
-- **Lab 12**: VLAN Router-on-a-Stick *(Obligatorisk)*
-- **Lab 14**: DHCPv4/DHCPv6 implementering *(Obligatorisk)*
+- **Lab 7**: IP Subnetting og VLSM 
+- **Lab 9**: IPv6/ICMPv6 og Wireshark TCP/HTTP analyse 
+- **Lab 12**: VLAN Router-on-a-Stick 
+- **Lab 14**: DHCPv4/DHCPv6 implementering 
 - **Lab 15**: HSRP konfigurasjon
 - **Lab 17**: Switch-sikkerhet konfigurasjon
 - *...og flere grunnleggende networking labs*
 
 ### **Avanserte Laber (DCST2001)**
-- **Lab 35**: OSPF (Open Shortest Path First) - **OBLIGATORISK**
-- **Lab 37**: Access Control Lists (ACL) - **OBLIGATORISK**
+- **Lab 35**: OSPF (Open Shortest Path First)
+- **Lab 37**: Access Control Lists (ACL) 
 - **Lab 36**: Advanced Network Security
 - **Lab 34**: Static Routing & Path Control
 
