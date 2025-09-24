@@ -1,13 +1,6 @@
 # Nettverk-og-Infrastruktur-Laber
 Samling av praktiske nettverkstekniske prosjekter gjennomført i emnet Datakommunikasjon og nettverk (DCST1006) og Sammenkoblede nettverk og nettverkssikkerhet (DCST2001). Labene ga praktisk erfaring av nettverksprotokoller, distribuert systemkommunikasjon og bedriftsnettverksarkitektur.
 
-## Oversikt
-Omfattende samling av praktiske nettverkstekniske prosjekter fra **DCST1006 Datakommunikasjon og nettverk** og **DCST2001 Sammenkoblede nettverk og nettverkssikkerhet**. 
-
-Disse labene ga dyp forståelse av enterprise networking og distribuerte systemer - **direkte relevant for skalerbar videokonferanse-infrastruktur**.
-
----
-
 ## **Implementering av Nettverksprotokoller**
 
 ### VLAN & Inter-VLAN Routing 
